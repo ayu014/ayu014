@@ -1,8 +1,4 @@
 # 👋 Hi, I'm Ayush Ranjan
- 
-📞 +91 62800-59961
-📧 [ayush0187cse@gmail.com](mailto:ayush0187cse@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/ayu014) | 💻 [GitHub](https://github.com/ayu014)
 
 ## 💼 Professional Summary
 
@@ -16,20 +12,18 @@ I am a dedicated and skilled student currently pursuing a Bachelor of Engineerin
 - C
 - C++
 
-### 2. Python Libraries:
+### 2. Libraries & Frameworks:
 - **Data Science & Machine Learning:** NumPy, Pandas, SciPy, TensorFlow
 - **Data Visualization:** Matplotlib, SeaBorn
-- **GUI Development:** PyQt, Tkinter
+- **Frameworks:** Flask, Django
 
 ### 3. Web Development:
-- **Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS,Bootstrap
 
-### 4. Database:
-- MySQL
 
 ## 🔧 Developer Tools:
 - VS Code
 - Eclipse
-- Google Cloud Platform
 - Git
+- APIs
 
