@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayush Ranjan
+# Hi, I'm Ayush Ranjan
 
 ## 💼 Professional Summary
 
