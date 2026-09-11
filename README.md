@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color: navy; font-size: 3em; margin-bottom: 0;">Ayush Ranjan</h1>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000080&text=Ayush%20Ranjan&fontSize=60&fontAlign=50" alt="Ayush Ranjan" />
 
 **Software Engineer • DevOps, Cloud & AI Enthusiast**
 
@@ -24,59 +24,4 @@
   </a>
 </p>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science Engineering undergraduate at Chandigarh University (Expected 2027), with hands-on experience in building AI-driven and automation-focused software solutions[cite: 1]. 
-
-* **Focus Areas:** DevOps, Cloud Infrastructure, Software Development, and AI Automation.
-* **Current Goal:** Seeking opportunities to apply strong coding, debugging, and collaborative skills to develop efficient software systems within a fast-paced engineering team[cite: 1].
-* **Core Strengths:** Problem-solving, delivering reliable applications, and building a strong foundation in CS fundamentals like DSA, System Design, and OOP[cite: 1].
-
----
-
-## 🛠️ Technical Skills
-
-* **Programming Languages:** Python, C++, C, Java, SQL[cite: 1]
-* **Frameworks & Tools:** Jupyter Notebook, Flask, Selenium, REST APIs, Eclipse[cite: 1]
-* **AI & Automation:** Generative AI Basics, AI Automation, Prompt Engineering[cite: 1]
-* **DevOps & Cloud:** Linux, Bash Scripting, Docker, Amazon Web Services, Git, GitHub[cite: 1]
-* **CS Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Operating Systems, Computer Networking, System Design, Database Management, Agile Development[cite: 1]
-
----
-
-## 🚀 Experience & Featured Projects
-
-### 💻 Intel Corporation | Summer Internship Program
-*May - June 2025*
-* Contributed to computer vision and AI-based application development, applying data preprocessing, model training, and performance evaluation techniques[cite: 1].
-* Designed and optimized a Convolutional Neural Network (CNN) through iterative experimentation and hyperparameter tuning, achieving 87% classification accuracy[cite: 1].
-
-### 🏆 Smart India Hackathon 2025 | Grand Finalist (Top 5 of 1 Lakh+)
-**Jal Chetna — Groundwater Intelligence Platform**
-* Developed a platform for the Ministry of Jal Shakti covering 70+ regions, integrating real-time monitoring, predictive analytics, spatial analysis, and policy simulation[cite: 1].
-* Automated ETL pipelines using Supabase Edge Functions to ingest and preprocess 250K+ hydrological records daily[cite: 1].
-* *Tech Stack:* React Native, TypeScript, Supabase[cite: 1]
-
----
-
-<div align="center">
-  <h3>Let's Connect</h3>
-  <p>Interested in discussing <b>DevOps, Cloud infrastructure, software development, and efficient systems.</b></p>
-  
-  <a href="https://www.linkedin.com/in/ayu014">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ayush0187cse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/ayu014">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <br/><br/>
-  <b>Building • Learning • Automating • Scaling</b>
 </div>
