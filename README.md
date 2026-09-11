@@ -1,14 +1,14 @@
 <div align="center">
 
-# Ayush Ranjan
+<h1 style="color: navy; font-size: 3em; margin-bottom: 0;">Ayush Ranjan</h1>
 
-**Software Engineer • AI, Cloud & DevOps Enthusiast**
+**Software Engineer • DevOps, Cloud & AI Enthusiast**
 
 <p>
-  Building AI-driven and automation-focused software solutions, with a strong foundation in backend development and cloud fundamentals.
+  Building reliable software solutions, with a strong foundation in backend development, DevOps, and cloud fundamentals.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&center=true&vCenter=true&width=620&lines=Software+Engineering;AI+%26+Automation;Cloud+Architecture;DevOps+%26+Infrastructure;Problem+Solving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&center=true&vCenter=true&width=620&lines=DevOps+%26+Infrastructure;Cloud+Architecture;Software+Engineering;AI+%26+Automation;Problem+Solving" alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 I'm a Computer Science Engineering undergraduate at Chandigarh University (Expected 2027), with hands-on experience in building AI-driven and automation-focused software solutions[cite: 1]. 
 
-* **Focus Areas:** Software engineering, backend development, AI automation, and cloud fundamentals.
+* **Focus Areas:** DevOps, Cloud Infrastructure, Software Development, and AI Automation.
 * **Current Goal:** Seeking opportunities to apply strong coding, debugging, and collaborative skills to develop efficient software systems within a fast-paced engineering team[cite: 1].
 * **Core Strengths:** Problem-solving, delivering reliable applications, and building a strong foundation in CS fundamentals like DSA, System Design, and OOP[cite: 1].
 
@@ -61,33 +61,11 @@ I'm a Computer Science Engineering undergraduate at Chandigarh University (Expec
 * Automated ETL pipelines using Supabase Edge Functions to ingest and preprocess 250K+ hydrological records daily[cite: 1].
 * *Tech Stack:* React Native, TypeScript, Supabase[cite: 1]
 
-### 🔒 ACRS — Anonymous Complaint Redressal System
-* Engineered a full-stack grievance management application supporting 5,000+ complaint records[cite: 1].
-* Designed RESTful APIs with authentication and role-based access control to maintain strict user anonymity in grievance workflows[cite: 1].
-* *Tech Stack:* React.js, Spring Boot, Supabase[cite: 1]
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayu014&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ayush Ranjan GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu014&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages"/>
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayu014&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayu014&theme=github-compact&hide_border=true&area=true" alt="Ayush Ranjan GitHub Contribution Activity Graph"/>
-</div>
-
 ---
 
 <div align="center">
   <h3>Let's Connect</h3>
-  <p>Interested in discussing <b>software engineering, AI-driven solutions, and efficient systems.</b></p>
+  <p>Interested in discussing <b>DevOps, Cloud infrastructure, software development, and efficient systems.</b></p>
   
   <a href="https://www.linkedin.com/in/ayu014">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
